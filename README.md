@@ -3,7 +3,7 @@
 
 # Change Log (last three updates)
 
--  Date
+-  5.17.18
     +  Initial Commit
 
 <br>
@@ -14,12 +14,12 @@ Hello There! We got tired of writing the same base Android and iOS system level 
 <br>
 
 # Examples
-- [Need to Replace](URL GOES HERE)
+- COMING SOON
 
 <br>
 
 # How to use it?
-1. Download the snippets.
+1. [Download the snippets.](https://github.com/iamkeeler/UXTOOLTIME-Framer/raw/master/Android-Components.zip)
 2. Copy the Snippets over to your Framer Snippets Folder (Easist way to get here is to open Framer. Open the snippets menu and click "Show Snippets Folder...")
 3. Use the Snippets.
 4. Make magic happen!
@@ -36,4 +36,4 @@ Hello There! We got tired of writing the same base Android and iOS system level 
 
 ---
 
-# [DOWNLOAD ANDROID SNIPPETS](https://github.com/iamkeeler/UXTOOLTIME/raw/master/UXTT-Android-Material-Design-V01.rplib "Just download it already ;)") or [DOWNLOAD iOS SNIPPETS](https://github.com/iamkeeler/UXTOOLTIME/raw/master/UXTT-iOS8-V1-1.rplib "Just download it already ;)")
+# [DOWNLOAD ANDROID SNIPPETS](https://github.com/iamkeeler/UXTOOLTIME-Framer/raw/master/Android-Components.zip"Just download it already ;)")
